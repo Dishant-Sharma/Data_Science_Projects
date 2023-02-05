@@ -1,3 +1,3 @@
-# Projects_AIML_GreatLakes
+# Projects: Data Science
 This repository comprises of the projects and assignments that i have completed during my tenure at Great Lakes for the course program PGP-AIML. The projects and assignments are based on the concepts of topics like Python for Machine Learning, Statistical Learning, Supervised Learning, Unsupervised Learning, Ensemble Techniques, Feature Selection, Recommendation Systems,Model Performance and Hyperparameter Tuning, Neural Networks &amp; Deep Learning, Computer Vision with CNNs,Advanced Computer Vision, Statistical NLP, Sequence Models in NLP, GANs and Reinforcement Learning. This repository also includes the lab work thatwas done during the classes and even those that were given as assessments. 
 The Eportfolio can be found in this link: https://eportfolio.greatlearning.in/dishant-sharma
